@@ -6,18 +6,19 @@ A clean and scalable starter template for building Node.js backend applications 
 
 ## 📁 Project Structure
 
-typescript-backend-template/
-├── src/ # TypeScript source files
-│ └── index.ts # Entry point
-├── dist/ # Compiled JavaScript (auto-generated)
-├── .env # Environment variables (should be kept secret)
-├── .env.example # Example environment file
-├── .gitignore
-├── nodemon.json
-├── package.json
-├── tsconfig.json
-└── README.md
-
+```
+typescript-backend-template/ 
+├── src/ # TypeScript source files 
+│ └── index.ts # Entry point 
+├── dist/ # Compiled JavaScript (auto-generated) 
+├── .env # Environment variables (should be kept secret) 
+├── .env.example # Example environment file 
+├── .gitignore 
+├── nodemon.json 
+├── package.json 
+├── tsconfig.json 
+└── README.md 
+```
 
 ---
 
